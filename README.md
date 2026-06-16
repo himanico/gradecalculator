@@ -39,8 +39,6 @@ Open in browser:
 http://localhost:8501  
 **screenshot**
 <img width="1070" height="823" alt="image" src="https://github.com/user-attachments/assets/e8ddb24b-dc6e-4c81-b5e5-98650b550093" />
-<img width="942" height="575" alt="image" src="https://github.com/user-attachments/assets/7fb31f0b-5a01-4ec9-8e1c-e3552949bc46" />
-
 
 ---
 
