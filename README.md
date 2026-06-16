@@ -25,8 +25,7 @@ This app allows students to calculate their overall percentage and grade easily.
 ## 📦 Installation
 
 ### 1. Clone Repository
-git clone /https://gradecalculator-5il89gdqvpbf2k7xkij85m.streamlit.app/
-cd grade-calculator-streamlit  
+git clone https://github.com/himanico/gradecalculator
 
 ### 2. Install Dependencies
 pip install streamlit  
